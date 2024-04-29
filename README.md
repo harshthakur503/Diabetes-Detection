@@ -32,7 +32,4 @@ The results for the test set are displayed below, showing whether each patient i
 - Keras
 - scikit-learn
 
-## Results Visualization
-
-![Training Process](/Users/harshthakur/Documents/VSC/Deep Learning Project/epochs.png)
 
